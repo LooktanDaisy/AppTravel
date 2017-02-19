@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gold999_txt">99.9%</string>
+    <string name="gold965_txt">96.5%</string>
+    <string name="copyright">Copyright © Freewill Solutions Co., Ltd.</string>
+    <string name="tel_phone">Tel.02-1234567</string>
+    <string name="to">ถึง</string>
+    <string name="status_record">ช่องทาง</string>
+    <string name="day_order">วันที่ทำรายการ</string>
+    <string name="sum_order">รวม</string>
+    <string name="graph_menu">แผนภาพเปรียบเทียบ</string>
+    <string name="record_menu">ข้อมูลรายการย้อนหลัง</string>
+    <string name="exit_menu">ออกจากระบบ</string>
+    <string name="setting_menu">ตั้งค่าการใช้งาน</string>
+    <string name="exit_app">ออกจากแอพพลิเคชัน</string>
+</resources>
